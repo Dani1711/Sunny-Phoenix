@@ -1,0 +1,26 @@
+{
+"name": "snny-6hoenix",
+"version": "1.0.0",
+"description": " Quickly generate random content",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Dani1711/Sunny-Phoenix.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Dani1711",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
